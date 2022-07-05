@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = withsofina@gmail.com
+	name = withsofina@gmail.com
